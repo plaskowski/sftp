@@ -1,7 +1,7 @@
 ---
 **NOTE**
 
-This is close of atmoz/sftp that allows to provide ssh server keys via docker secrets (/run/secrects/*).
+This is clone of atmoz/sftp that takes ssh server keys via docker secrets (/run/secrects/*).
 
 ---
 
